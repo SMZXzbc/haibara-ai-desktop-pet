@@ -1,4 +1,4 @@
-# 灰原哀桌面宠物 (Haibara Ai Desktop Pet)
+# 灰原哀桌面宠物 (Haibara Ai Desktop Pet)（半成品）
 
 基于 MiMo API 的 AI 对话桌面宠物，角色设定为名侦探柯南中的灰原哀（宫野志保）。
 
